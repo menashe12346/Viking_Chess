@@ -11,7 +11,6 @@ Welcome to the Viking Chess project! This repository contains an implementation 
 - [🎮 Usage](#usage)
 - [📜 Rules](#rules)
 - [🤝 Contributing](#contributing)
-- [📄 License](#license)
 
 ## Introduction
 
@@ -77,7 +76,3 @@ For detailed rules and historical context, refer to [this link](https://en.wikip
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or create a pull request. Please follow the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
